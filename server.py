@@ -1,7 +1,7 @@
 # DISTRIBUTED SYSTEMS | Assignment 2 | Anette Sarivuo | 0544022
 
 import sys # for catching errors
-from xmlrpc.server import SimpleXMLRPCServer # for building the XML RCP server
+from xmlrpc.server import SimpleXMLRPCServer # for building the XML RPC server
 import xml.etree.ElementTree as ET # for parsing the database (XML-file)
 import requests # for HTTP requests (Wikipedia application programming interface)
 from datetime import datetime # for timestamps
