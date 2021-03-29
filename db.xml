@@ -1,0 +1,12 @@
+<data>
+    <topic name="Animal Things">
+	<text>Dogs respond when you call their name (unlike cats, who just ignore you)</text>
+        <timestamp>03/16/21 - 14:03:04</timestamp>
+    </topic>
+<topic name="Hi!"><text updated="yes">Hello World!Hellooo!Let's try again
+Wow!
+Terve!</text><timestamp updated="yes">29/03/2021 - 15:47:2729/03/2021 - 15:48:4529/03/2021 - 15:56:11
+29/03/2021 - 15:58:12
+29/03/2021 - 16:01:27</timestamp></topic><topic name="Chairs"><text>Chairs come with four legs and you sit on them</text><timestamp>29/03/2021 - 15:59:33</timestamp></topic><topic name="Penguin"><text>Penguins live on the northpole</text><timestamp>29/03/2021 - 16:01:54</timestamp></topic><topic name="My new note"><text>My new text
+This is an update</text><timestamp>29/03/2021 - 16:04:49
+29/03/2021 - 16:05:26</timestamp></topic></data>
